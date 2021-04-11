@@ -9,7 +9,7 @@ The dataset that has been used, consists of information collected from more than
 First 5 rows from the dataset
 ![](https://github.com/yasser-sulaiman/customer_behavior_predection/blob/main/results/first5.PNG)
 
-<br>
+
 Summary of data distribution across the country
 ![](https://github.com/yasser-sulaiman/customer_behavior_predection/blob/main/results/data_destribution.PNG)
 
